@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalculatorFox" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryVariant">#FA9927</item>
+        <item name="android:statusBarColor">#FA9927</item>
+    </style>
+</resources>
