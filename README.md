@@ -24,9 +24,9 @@ I wanted to create a calculator that's not boring. The fox theme makes it friend
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot_1.png" width="200" alt="Calculator" />
-  <img src="screenshots/screenshot_2.png" width="200" alt="Calculation" />
-  <img src="screenshots/screenshot_3.png" width="200" alt="Result" />
+  <img src="screenshots/photo_1_2026-01-03_20-41-04.jpg" width="200" alt="Calculator" />
+  <img src="screenshots/photo_2_2026-01-03_20-41-04.jpg" width="200" alt="Calculation" />
+  <img src="screenshots/photo_3_2026-01-03_20-41-04.jpg" width="200" alt="Result" />
 </p>
 
 ## Tech Stack
